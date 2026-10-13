@@ -5,7 +5,7 @@
 Wenn Sie die Notebooks ausführen, erscheint diese Warnung:
 
 ```
-c:\Users\<user>\bootcamps\week10\ds-RAG\.venv\Lib\site-packages\tqdm\auto.py:21: TqdmWarning:
+<repo-dir>\.venv\Lib\site-packages\tqdm\auto.py:21: TqdmWarning:
 IProgress not found. Please update jupyter and ipywidgets.
 See https://ipywidgets.readthedocs.io/en/stable/user_install.html
   from .autonotebook import tqdm as notebook_tqdm
